@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+  letter-spacing: 1px;
+  font-family: cursive;
+}
+
+.font-weight{
+  font-weight: bold;
+}
